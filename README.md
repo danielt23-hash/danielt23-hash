@@ -14,4 +14,4 @@ Cybersecurity student at Virginia Tech with a focus on threat detection and log 
 ## Projects
 - Splunk Threat Hunting Lab – analyzed logs to detect brute-force attempts and suspicious activity
 - Ticket Master System - built a Python ticketing system with file handling, input validation and event conflict detection.
-- Money Decision Guide - created a python program to compare savings and investment options over time. 
+- Money Decision Guide - created a Python program to compare savings and investment options over time. 
